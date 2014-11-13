@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareLogic-Demo.Windows", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareLogic-Demo.WindowsPhone", "ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\ShareLogic-Demo.WindowsPhone.csproj", "{1E033DA5-D30C-47B2-8C66-B2EAE5E893D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareLogic-Lib", "ShareLogic-Lib\ShareLogic-Lib.csproj", "{CF993727-0694-48BF-A552-0861F5B5D501}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		ShareLogic-Demo\ShareLogic-Demo.Shared\ShareLogic-Demo.Shared.projitems*{a5c15b69-fa82-45af-8f6e-d7257a57bc07}*SharedItemsImports = 4
@@ -72,6 +74,16 @@ Global
 		{1E033DA5-D30C-47B2-8C66-B2EAE5E893D4}.Release|x86.ActiveCfg = Release|x86
 		{1E033DA5-D30C-47B2-8C66-B2EAE5E893D4}.Release|x86.Build.0 = Release|x86
 		{1E033DA5-D30C-47B2-8C66-B2EAE5E893D4}.Release|x86.Deploy.0 = Release|x86
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Release|ARM.ActiveCfg = Release|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF993727-0694-48BF-A552-0861F5B5D501}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,5 +92,6 @@ Global
 		{E7D34861-9D6F-46D2-8ED1-B3969EE7C215} = {878A6318-C389-432C-B2C3-30475CE685C8}
 		{A5C15B69-FA82-45AF-8F6E-D7257A57BC07} = {878A6318-C389-432C-B2C3-30475CE685C8}
 		{1E033DA5-D30C-47B2-8C66-B2EAE5E893D4} = {878A6318-C389-432C-B2C3-30475CE685C8}
+		{CF993727-0694-48BF-A552-0861F5B5D501} = {878A6318-C389-432C-B2C3-30475CE685C8}
 	EndGlobalSection
 EndGlobal

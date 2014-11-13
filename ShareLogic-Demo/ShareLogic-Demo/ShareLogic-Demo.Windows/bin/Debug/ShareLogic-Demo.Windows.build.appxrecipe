@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>D1CXRD12</Machine>
+    <WindowsUser>d.delaire</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f5ab9b02-2be6-40e8-a18f-07804708da16</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\bin\Debug\ShareLogic-Demo.Windows.exe">
+      <PackagePath>ShareLogic-Demo.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\bin\Debug\ShareLogic-Lib.dll">
+      <PackagePath>ShareLogic-Lib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\bin\Debug\ShareLogic-Demo.Windows.xr.xml">
+      <PackagePath>ShareLogic-Demo.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

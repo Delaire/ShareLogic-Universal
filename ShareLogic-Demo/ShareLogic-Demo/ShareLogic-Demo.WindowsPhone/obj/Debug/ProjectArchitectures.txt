@@ -1,0 +1,2 @@
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\ShareLogic-Demo.WindowsPhone.csproj;neutral
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\ShareLogic-Lib.csproj;neutral

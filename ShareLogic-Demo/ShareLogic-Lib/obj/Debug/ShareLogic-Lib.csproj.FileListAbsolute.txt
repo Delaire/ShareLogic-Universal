@@ -1,0 +1,16 @@
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\bin\Debug\ShareLogic-Lib.dll
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\bin\Debug\ShareLogic-Lib.pdb
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\bin\Debug\ShareLogic-Lib.pri
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\ShareLogic-Lib.dll
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\ShareLogic-Lib.pdb
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\priconfig.xml
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\priconfig.xml.intermediate
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\layout.resfiles
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\layout.resfiles.intermediate
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\resources.resfiles
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\resources.resfiles.intermediate
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\pri.resfiles
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\pri.resfiles.intermediate
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\qualifiers.txt
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\qualifiers.txt.intermediate
+C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\obj\Debug\MultipleQualifiersPerDimensionFound.txt

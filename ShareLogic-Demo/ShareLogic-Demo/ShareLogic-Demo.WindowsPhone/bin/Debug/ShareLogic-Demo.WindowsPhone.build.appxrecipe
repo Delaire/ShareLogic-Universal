@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>D1CXRD12</Machine>
+    <WindowsUser>d.delaire</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54f30205-399a-4bc9-9287-c7157b9a8546</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\bin\Debug\ShareLogic-Demo.WindowsPhone.exe">
+      <PackagePath>ShareLogic-Demo.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Lib\bin\Debug\ShareLogic-Lib.dll">
+      <PackagePath>ShareLogic-Lib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\bin\Debug\ShareLogic-Demo.WindowsPhone.xr.xml">
+      <PackagePath>ShareLogic-Demo.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\Tutorials\ShareLogic-Universal\ShareLogic-Demo\ShareLogic-Demo\ShareLogic-Demo.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

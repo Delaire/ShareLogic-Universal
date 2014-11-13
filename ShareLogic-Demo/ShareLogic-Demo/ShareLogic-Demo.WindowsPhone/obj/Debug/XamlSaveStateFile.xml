@@ -1,4 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\d.delaire\documents\github\tutorials\sharelogic-universal\sharelogic-demo\sharelogic-demo\sharelogic-demo.windowsphone\obj\debug\intermediatexaml\sharelogic-demo.windowsphone.exe" HashGuid="f689c997-1937-db1d-e34a-1b73bdd3f7b6" />
+    <ReferenceAssembly PathName="c:\users\d.delaire\documents\github\tutorials\sharelogic-universal\sharelogic-demo\sharelogic-lib\bin\debug\sharelogic-lib.dll" HashGuid="6f57cf7b-5c69-7de2-d23d-99912f8acc8d" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
